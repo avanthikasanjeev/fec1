@@ -1,0 +1,7 @@
+mediamediamedia
+@media(min-width:700px) {
+  .bgimg-1, .bgimg-2, .bgimg-3,.bgimg4 {
+    background-attachment: scroll;
+    min-height: 500px;
+  }
+}
